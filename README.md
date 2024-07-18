@@ -18,9 +18,17 @@
     <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/>
     <img src="https://img.shields.io/badge/Microsoft SQL Server-CC2927?style=flat-square&logo=Microsoft SQL Server&logoColor=white"/>
     <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=Visual Studio Code&logoColor=white"/>
+    <!-- <a href="https://github.com/devxb/gitanimals">
+      <img src="https://render.gitanimals.org/farms/sang4004"/>
+    </a> -->
     <a href="https://github.com/devxb/gitanimals">
-      <img src="https://render.gitanimals.org/lines/sang4004?pet-id=1" width="1000" height="120"/>
+      <img
+        src="https://render.gitanimals.org/lines/sang4004?pet-id=596969364244952555"
+        width="600"
+        height="120"
+      />
     </a>
+  
   </div>
 </div>
 
