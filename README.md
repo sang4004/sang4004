@@ -3,7 +3,7 @@
    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sang4004&theme=dracula&exclude_repo=clone-web-scrapper,clone-zoom&hide=Procfile&layout=compact&langs_count=6"/>
   
   ### <a>🐣 WooSang Park 🐥 </a>
-  <a href="https://www.notion.so/4fa56284c508457c9709ef0cc1fd70c2"><img src="https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
+  <a href="https://www.notion.so/AI-UI-2deafbfccc5680eaa3d0c2f8013c4d09?source=copy_link"><img src="https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
   
   ---
   
