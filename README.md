@@ -4,6 +4,7 @@
   
   ### <a>🐣 WooSang Park 🐥 </a>
   <a href="https://www.notion.so/AI-UI-2deafbfccc5680eaa3d0c2f8013c4d09?source=copy_link"><img src="https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
+  <a href="https://sang4004.github.io/portfolio"><img src="https://img.shields.io/badge/Website-181717?style=flat-square&logo=github&logoColor=white"/></a>
   
   ---
   
