@@ -1,10 +1,12 @@
 <div align="center">
 
-### 🐣 WooSang Park 🐥
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:646CFF&height=180&section=header&text=WooSang%20Park&fontSize=48&fontColor=ffffff&animation=fadeIn" />
 
-서비스를 만들고 끝내지 않고, 직접 운영하며 개선해온 개발자입니다.
+<img src="https://readme-typing-svg.demolab.com/?lines=Frontend+Developer;React+%2B+Next.js+%2B+TypeScript;Node.js+%2B+NestJS+on+the+backend&center=true&width=500&height=40&size=20&color=646CFF&pause=1200" />
 
-<a href="PORTFOLIO_URL"><img src="https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
+<br/>
+
+<a href="https://app.notion.com/p/4feafbfccc56833381b781210ba57e13"><img src="https://img.shields.io/badge/Portfolio-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
 <a href="mailto:wrswg4004@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=flat-square"/></a>
 
 ---
@@ -37,16 +39,16 @@
 
 ---
 
-**How I Work**
+<br/>
 
-🧩 반복되는 UI와 규칙은 공통 구조로 정리해, 기능이 늘어도 고칠 곳이 적은 코드를 만듭니다<br/>
-🔍 운영 중 생긴 문제는 네트워크 응답과 서버 로그, 배포 환경까지 따라가 원인을 찾습니다<br/>
-🤖 AI 도구는 프로젝트 규칙과 검증 절차 안에서 사용합니다
+<img src="https://streak-stats.demolab.com/?user=sang4004&theme=transparent&hide_border=true" />
 
 <br/>
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=sang4004&utm_content=line">
   <img src="https://render.gitanimals.org/lines/sang4004?pet-id=710186134403833897" width="600" height="120"/>
 </a>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:61DAFB,100:646CFF&height=100&section=footer" />
 
 </div>
